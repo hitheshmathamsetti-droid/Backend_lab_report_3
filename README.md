@@ -4,7 +4,8 @@
 **Registration number:** 252U1R7063
 **Section:** CSE FSD - [2B]  
 **Course:** Backend Development Fundamentals  
-**Lab:** 03
+**Lab:** 03  
+**GitHub Repository:** [https://github.com/hitheshmathamsetti-droid/Backend_lab_report_3](https://github.com/hitheshmathamsetti-droid/Backend_lab_report_3)
 
 **Live link:** Deployment pending - the server has not been deployed yet, because
 no hosting account was connected and no deployment was authorised during this
@@ -92,7 +93,7 @@ The repository also keeps the original Lab 1 and Lab 2 projects unchanged in the
 | `scripts.start` | `node server.js` | Starts the API server |
 | `scripts.dev` | `nodemon server.js` | Starts the server and restarts it after every change |
 | `keywords` | `nodejs`, `express`, `sqlite`, `rest-api`, `query-parameters` | Search keywords for npm |
-| `author` | `Siripuram Nivas` | Author of the project |
+| `author` | `Mathamsetty Hithesh` | Author of the project |
 | `license` | `ISC` | Permissive open-source licence |
 | `dependencies` | `express`, `sqlite`, `sqlite3` | Packages needed to run the server |
 | `dependencies.sqlite3` | `5.1.7` | Exact version, so the native driver installs the same way on Render as it does locally |
